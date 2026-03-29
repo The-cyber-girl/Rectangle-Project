@@ -1,7 +1,5 @@
 # Rectangle-Project
 A simple Java program demonstrating OOP concepts using a Rectangle class with constructors, methods, and object manipulation
-# Rectangle Project
-
 This is a beginner-friendly Java project that demonstrates basic Object-Oriented Programming (OOP) concepts using a Rectangle class.
 
 ## Features
